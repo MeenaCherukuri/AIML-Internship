@@ -19,7 +19,7 @@ Using StandardScaler from sklearn to scale Age and Fare.
 ### ✅ Step 5: Visualize Outliers with Boxplots and Remove Them
 * Plot boxplots for Age and Fare.
 * Remove outliers using the IQR method.
-### ✅ Step 5:🧾 Final Output
+### ✅ Step 6:🧾 Final Output
 - Cleaned dataset ready for ML model training.
 - No missing values.
 - Outliers removed.
