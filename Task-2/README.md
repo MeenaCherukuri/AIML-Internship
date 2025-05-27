@@ -13,7 +13,7 @@ To understand and visualize the Titanic dataset by:
 - Seaborn
 - Plotly
 - Google Colab
-- ## 🗂 Dataset
+## 🗂 Dataset
 We used the Titanic dataset provided by Data Science Dojo:  
 [🔗 Click to Download](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 ## 🚀 How to Run
@@ -29,8 +29,8 @@ We used the Titanic dataset provided by Data Science Dojo:
   - Fare
   - Gender
   - Passenger class (Pclass)
-  ## 🧠 Observations & Inferences
-  - 💰 Passengers paying higher fares tended to belong to higher classes and had better survival chances.
+## 🧠 Observations & Inferences
+- 💰 Passengers paying higher fares tended to belong to higher classes and had better survival chances.
 - 👶 Children and younger passengers had relatively higher survival rates.
 - 🚹 Women had a significantly higher survival rate than men.
 - 🛳️ First class passengers were more likely to survive than those in third class.
