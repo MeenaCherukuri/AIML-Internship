@@ -159,6 +159,15 @@ If you'd like to improve this project, you're welcome to contribute! Here's how:
 - 🧵 Add audio visualization using `matplotlib` or `plotly` in Streamlit
 - 🗃️ Add a database layer (e.g., SQLite/MongoDB) to store user audio and results
 
+## Results Snapshot
+
+| Emotion     | Precision | Recall | F1-Score |
+|-------------|-----------|--------|----------|
+| Happy       | 0.89      | 0.86   | 0.87     |
+| Angry       | 0.91      | 0.88   | 0.89     |
+| Sad         | 0.88      | 0.87   | 0.87     |
+| Calm        | 0.85      | 0.84   | 0.84     |
+| **Average** | **0.88**  | **0.86** | **0.87** |
 
 
 
