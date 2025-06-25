@@ -169,5 +169,15 @@ If you'd like to improve this project, you're welcome to contribute! Here's how:
 | Calm        | 0.85      | 0.84   | 0.84     |
 | **Average** | **0.88**  | **0.86** | **0.87** |
 
+## 📞 Contact & Support
 
+If you have any questions, suggestions, or would like to discuss the project further, please feel free to reach out. I'm open to collaboration, feedback, or simply helping others understand and use this tool effectively.
+
+You can connect with me through the following platforms:
+
+- 📧 **Email**: [Email me!](mailto:cherukurimeenakshi555@gmail.com)  
+- 💼 **LinkedIn**: [Find Me here!!](https://www.linkedin.com/in/meenakshi-devi-cherukuri-439152281/)  
+- 🐙 **GitHub**: [Click Me..](https://github.com/MeenaCherukuri/AIML-Internship)
+
+I appreciate your interest in this project. If you find it useful, a ⭐ on the repository would mean a lot!
 
